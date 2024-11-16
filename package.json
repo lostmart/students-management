@@ -12,7 +12,8 @@
 	"description": "",
 	"dependencies": {
 		"express": "^4.21.1",
-		"mocha": "^10.8.2"
+		"mocha": "^10.8.2",
+		"sqlite3": "^5.1.7"
 	},
 	"devDependencies": {
 		"chai": "^4.4.1",
