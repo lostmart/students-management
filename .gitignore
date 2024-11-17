@@ -47,5 +47,7 @@ jspm_packages/
 *.sln
 *.sw?
 
+.nyc_output
+
 # Database
 students.db
